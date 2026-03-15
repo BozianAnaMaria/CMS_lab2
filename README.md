@@ -2,7 +2,7 @@
 
 
 ## Lucrarea de laborator nr. 3. Dezvoltarea unei teme WordPress simple
-###Pasul 1. Pregătirea mediului
+### Pasul 1. Pregătirea mediului
 - În instalarea locală WordPress, accesează folderul wp-content/themes.
 - Creează un director pentru tema ta, de exemplu usm-theme.
 
